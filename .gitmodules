@@ -1,0 +1,3 @@
+[submodule "fullstack-lab"]
+	path = fullstack-lab
+	url = https://github.com/etemkocaaslan/fullstack-lab.git
